@@ -20,17 +20,10 @@
   box-sizing:border-box;
 }
 
-p,ol,ul,td{
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size:13px;
-  line-height:18px;
-  margin:33px;
-}
-
-.notice-box{
-  margin-left:33px;
-}
-
 .notice-box p{
  color:green;
+}
+
+a{
+  color:#333;
 }
